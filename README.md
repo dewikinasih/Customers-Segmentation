@@ -4,6 +4,8 @@ Implementation of K-Means clustering method to make customers segmentation
 
 
 
-[Here is the code]()
+[Here is the code](https://github.com/dewikinasih/Customers-Segmentation/blob/45ef3d6fea07671d708a34dc407ab6757447eb9e/porto_clustering%20k%20means.R)
+
+Library Used : cluster and fatoextra
 
 Publication : [Medium](https://dewikinasih.medium.com/customers-segmentation-using-r-d7070e9e28ce)
